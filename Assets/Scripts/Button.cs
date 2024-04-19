@@ -7,7 +7,7 @@ public class Button : MonoBehaviour
     private bool _isStop = false;
 
     [SerializeField] private Animator _animator;
-    [SerializeField] private GameObject _effect;
+    [SerializeField] private ParticleSystem _effect;
 
     private void Start()
     {

@@ -991,7 +991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 1147726078}
-  _effect: {fileID: 1787992276}
+  _effect: {fileID: 1787992279}
 --- !u!1 &1182552083
 GameObject:
   m_ObjectHideFlags: 0
@@ -1161,8 +1161,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 1182552085}
-  _effect1: {fileID: 1698843530}
-  _effect2: {fileID: 1787992276}
+  _effect1: {fileID: 1787992279}
+  _effect2: {fileID: 1698843532}
 --- !u!1 &1698843530
 GameObject:
   m_ObjectHideFlags: 0
@@ -10868,7 +10868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 1800453968}
-  _effect: {fileID: 1698843530}
+  _effect: {fileID: 1698843532}
 --- !u!114 &1800453970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10976,7 +10976,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 1800453968}
-  _effect: {fileID: 1698843530}
+  _effect: {fileID: 1698843532}
 --- !u!1 &1915545248
 GameObject:
   m_ObjectHideFlags: 0

@@ -7,8 +7,8 @@ public class NormalTemperature : MonoBehaviour
     private bool _isStop = false;
 
     [SerializeField] private Animator _animator;
-    [SerializeField] private GameObject _effect1;
-    [SerializeField] private GameObject _effect2;
+    [SerializeField] private ParticleSystem _effect1;
+    [SerializeField] private ParticleSystem _effect2;
 
     private void Start()
     {
